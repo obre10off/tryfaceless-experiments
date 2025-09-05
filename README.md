@@ -168,3 +168,6 @@ If you encounter any issues:
 **Happy Creating!** 🎬✨
 
 Use this tool to understand what makes videos go viral and create your own successful content using proven patterns.
+
+---
+
