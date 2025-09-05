@@ -1,0 +1,77 @@
+{
+  "source_video": "viral_ig.mp4",
+  "analysis_date": "2025-09-05 17:35:01",
+  "video_specs": {
+    "duration": 6.3,
+    "fps": 30.0,
+    "resolution": [
+      720,
+      1280
+    ],
+    "total_frames": 189
+  },
+  "fade_analysis": {
+    "fade_in": {
+      "duration": 1.5,
+      "formula": "alpha = 0.003*t^2 + 0.423*t + 0.361",
+      "type": "quadratic",
+      "timing": [
+        0.0,
+        1.5
+      ]
+    },
+    "hold_duration": 4.766666666666667,
+    "fade_out": {
+      "duration": 0.03333333333333333,
+      "formula": "No significant fade-out detected",
+      "type": "minimal",
+      "timing": [
+        6.266666666666667,
+        6.3
+      ]
+    }
+  },
+  "content_analysis": {
+    "texts": [
+      "you know the struggle is real if",
+      "you've done these:",
+      "fell asleep praying",
+      "deleted insta (again)",
+      "Deactivate your account",
+      "instead of deleting?",
+      "Deactivating Youf eccount",
+      "Jcmpotan",
+      "Youi Ptolile photo?  comreraand Fiea Kaba",
+      "hidden untayou enable",
+      "Dy loatna bachi",
+      "Dclcting your Jccount",
+      "pcrmancnt",
+      "Youi ptotile photos Vidcos cotincnts nkes",
+      "HollonetsnMbe penunenily dclaled",
+      "silent worship cry",
+      "scrolled during church",
+      "amen if you're pushing through"
+    ],
+    "layout": {
+      "image_regions": [
+        {
+          "position": [
+            0,
+            160
+          ],
+          "dimensions": [
+            720,
+            960
+          ],
+          "description": "Image region 1"
+        }
+      ]
+    }
+  },
+  "generation_notes": {
+    "format": "720x1280 portrait",
+    "fade_style": "Quadratic fade-in (1.5s), minimal fade-out (0.0s)",
+    "content_style": "Text-heavy with 1 image region(s)",
+    "theme": "Content analysis based on detected text"
+  }
+}
